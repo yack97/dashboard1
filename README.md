@@ -18,7 +18,7 @@ Clonar el repositorio.
 Instalar las dependencias: pipenv install
 Activar el entorno virtual: pipenv shell
 Iniciar la aplicación: python app.py
-Abra su navegador web y vaya a http://localhost:8051
+Abra su navegador web y vaya a http://localhost:8080
 Funcionalidades:
 
 Filtrado por país, categoría de producto y año.
