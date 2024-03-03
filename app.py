@@ -130,5 +130,5 @@ def update_graph(country, product_category, year):
 
 # Ejecutar la aplicación
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8051)
+    app.run_server(debug=True)
 
